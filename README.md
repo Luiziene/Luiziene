@@ -1,8 +1,6 @@
 -Olá, meu nome é Luiziene Alves
 
--Sou professora da Escola Estaudual Severino Moreira Barbosa
-
--Leciono a disciplina de Tecnologia
+-Sou professora da Escola Estaudual Severino Moreira Barbosa, onde leciono a disciplina de Tecnologia e Inovação.
 
  
 <!---
