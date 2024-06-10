@@ -1,9 +1,7 @@
--Olá, meu nome é Luiziene Alves
+Boas vindas ao meu perfil 💙
 
--Sou professora da Escola Estaudual Severino Moreira Barbosa, onde leciono a disciplina de Tecnologia e Inovação.
+Meu nome é Luiziene Alves
 
- 
-<!---
-Luiziene/Luiziene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Sou professora da Escola Estaudual Severino Moreira Barbosa, onde leciono a disciplina de Tecnologia e Inovação. Estamos estudando na Alura.
+
+ ![](https://media1.tenor.com/m/l65RJYwhCm4AAAAC/wave-waving.gif)
